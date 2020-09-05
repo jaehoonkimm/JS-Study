@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81cf87d5-7fe9-4a5e-8603-a16863dc6a63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ModernJS/ex01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModernJS/ex02.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h5cMs942fLNiukpMKuNiMIcv3v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ex01.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ModernJS/ex01.js" working-dir="$PROJECT_DIR$/ModernJS">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.ex01.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81cf87d5-7fe9-4a5e-8603-a16863dc6a63" name="Default Changelist" comment="" />
+      <created>1599304349834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599304349834</updated>
+      <workItem from="1599304351714" duration="2833000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1579" height="231" key="GridCell.Tab.0.bottom" timestamp="1599319237440">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="231" key="GridCell.Tab.0.bottom/-1680.160.1680.1027/0.23.1600.877@0.23.1600.877" timestamp="1599319237440" />
+    <state width="1579" height="231" key="GridCell.Tab.0.center" timestamp="1599319237438">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="231" key="GridCell.Tab.0.center/-1680.160.1680.1027/0.23.1600.877@0.23.1600.877" timestamp="1599319237438" />
+    <state width="1579" height="231" key="GridCell.Tab.0.left" timestamp="1599319237438">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="231" key="GridCell.Tab.0.left/-1680.160.1680.1027/0.23.1600.877@0.23.1600.877" timestamp="1599319237438" />
+    <state width="1579" height="231" key="GridCell.Tab.0.right" timestamp="1599319237439">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="231" key="GridCell.Tab.0.right/-1680.160.1680.1027/0.23.1600.877@0.23.1600.877" timestamp="1599319237439" />
+    <state x="598" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599306523988">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="598" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1680.160.1680.1027/0.23.1600.877@0.23.1600.877" timestamp="1599306523988" />
+  </component>
+</project>
